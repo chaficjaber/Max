@@ -1,0 +1,2 @@
+bat '''gcc -Wall -c max.c
+gcc -Wall -L/c/Users/33664/Desktop/personnel/Cours/EiDD/21/CUnit-20210112T183713Z-001/CUnit/CUnit-2.1-3/CUnit-2.1-3/CUnit/Sources/.libs -I/c/Users/33664/Desktop/personnel/Cours/EiDD/21/CUnit-20210112T183713Z-001/CUnit/CUnit-2.1-3/CUnit-2.1-3/CUnit/Headers -o max_test max_test.c max.o -lcunit'''

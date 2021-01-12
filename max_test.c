@@ -35,7 +35,7 @@ void max_test_1(void) {
 void max_test_2(void) {
   CU_ASSERT_EQUAL( max(2,2), 2);
   CU_ASSERT_EQUAL( max(0,0), 0);
-  CU_ASSERT_EQUAL( max(-1,-1), -2);
+  CU_ASSERT_EQUAL( max(-1,-1), -1);
 }
 
 void max_test_3(void) {

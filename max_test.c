@@ -39,7 +39,7 @@ void max_test_2(void) {
 }
 
 void max_test_3(void) {
-  CU_ASSERT_EQUAL( max(-1,-2), -2);
+  CU_ASSERT_EQUAL( max(-1,-2), -1);
 }
 
 /************* Test Runner Code goes here **************/
